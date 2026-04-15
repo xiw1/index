@@ -24,14 +24,14 @@
 </head>
 <body>
 
-    <h1>مرحباً بك في موقعي 👋</h1>
-    <p>هذا أول موقع أسويه باستخدام HTML</p>
+    <h1>توني 👋</h1>
+    <p>هتوني HTML</p>
 
     <button onclick="showMessage()">اضغطني</button>
 
     <script>
         function showMessage() {
-            alert("أهلاً فيك 🔥");
+            alert("أتوني 🔥");
         }
     </script>
 
