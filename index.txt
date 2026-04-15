@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>موقعي الأول</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>مرحباً بك في موقعي 👋</h1>
+    <p>هذا أول موقع أسويه باستخدام HTML</p>
+
+    <button onclick="showMessage()">اضغطني</button>
+
+    <script>
+        function showMessage() {
+            alert("أهلاً فيك 🔥");
+        }
+    </script>
+
+</body>
+</html>
+
+
+
+
